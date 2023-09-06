@@ -16,7 +16,7 @@
 
 ## Funcionalidades
 
-### Tecnologias utilizadas
+### Tecnologias Utilizadas
 
 ## Fontes utilizadas
 
