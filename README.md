@@ -13,13 +13,14 @@
 ![Capa do projeto](img/capa.png)
 
 ## Descrição
-
+Construimos um portifólio pessoal,traduzindo pagina e pesquisando projeto pronto
 ## Introdução
-
+pesquisamos o projeto
 ## Funcionalidades
-
+Exibir nossas habilidades e nosso estilo de trabalho
 ### Tecnologias Utilizadas
-
+html e css
 ## Fontes utilizadas
-
+tradutor e gloogle
 ## Autores
+ 
